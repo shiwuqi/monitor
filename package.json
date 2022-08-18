@@ -1,0 +1,10 @@
+{
+  "name": "monitor",
+  "version": "0.1.0",
+  "description": "",
+  "scripts": {
+    "clean": "rm -rf node_modules ./**/*/node_modules"
+  },
+  "author": "",
+  "license": "ISC"
+}
